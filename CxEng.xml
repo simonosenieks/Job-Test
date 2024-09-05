@@ -1,0 +1,35 @@
+git clone https://github.com/simonosenieks/xml-website.git
+cd xml-website
+<job>
+  <link>https://example.com/job/mechanical-commissioning-engineer</link>
+  <name>Mechanical Commissioning Engineer</name>
+  <region>Kuala Lumpur, Malaysia</region>
+  <description>
+    Mechanical Commissioning Engineer with 5-8 years of experience to join our team at a state-of-the-art semiconductor plant. The ideal candidate will possess a Bachelor's degree in Mechanical Engineering and a deep understanding of the large-scale air, water, and exhaust systems typical of a semiconductor plant, with a strong foundation in first principles.
+    
+    <p><strong>Key Responsibilities:</strong></p>
+    <ul>
+      <li>Oversee the commissioning of mechanical systems, ensuring they meet design specifications and pass functional acceptance tests.</li>
+      <li>Conduct, or guide engineers, thorough testing and validation of air, water, and exhaust systems, identifying and resolving any issues.</li>
+      <li>Collaborate with cross-functional teams to ensure seamless integration of systems.</li>
+      <li>Develop and execute system commissioning plans, including generation of original content to integrate multiple work packages.</li>
+      <li>Become competent in the use of the project commissioning system (EIDA).</li>
+      <li>Utilize clear and concise technical English to communicate complex concepts and project updates to stakeholders.</li>
+    </ul>
+
+    <p><strong>Qualifications:</strong></p>
+    <ul>
+      <li>Bachelor’s degree in Mechanical Engineering or a related field.</li>
+      <li>5-8 years of experience in mechanical commissioning, preferably in the semiconductor industry.</li>
+      <li>In-depth knowledge of large-scale air, water, and exhaust systems.</li>
+      <li>Strong analytical and problem-solving skills, with the ability to think logically and clearly.</li>
+      <li>Excellent technical writing and communication skills in English.</li>
+    </ul>
+  </description>
+  <pubdate>05.09.2024</pubdate>
+  <updated>05.09.2024</updated>
+  <salary>MYR 10,000-15,000</salary>
+  <company>Semiconductor EPC Firm</company>
+  <expire>05.10.2024</expire>
+  <jobtype>Full-time</jobtype>
+</job>
